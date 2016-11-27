@@ -1,16 +1,5 @@
 % Encoding: UTF-8
 
-@article{ImamuraSasamoto2011current,
-  title={Current moments of 1D ASEP by duality},
-  author={Imamura, T. and Sasamoto, T.},
-  journal={Journal of Statistical Physics},
-  volume={142},
-  number={5},
-  pages={919--930},
-  year={2011},
-	note={arXiv:1011.4588 [cond-mat.stat-mech]},
-  publisher={Springer}
-}
 
 
 @article{Gaudin1971,
