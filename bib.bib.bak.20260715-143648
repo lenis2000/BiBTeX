@@ -5625,9 +5625,9 @@ year = {2021}}
 	author = {Petrov, L. and Tikhonov, M.},
 	date-added = {2019-12-20 14:57:30 -0500},
 	date-modified = {2021-09-16 17:01:21 -0700},
-	journal = {J. Stat. Phys.},
+	journal = {Jour. Stat. Phys.},
 	note = {arXiv:1912.08671 [math.PR]},
-	pages = {1996--2010},
+	pages = {1996-2010},
 	title = {{Parameter symmetry in perturbed GUE corners process and reflected drifted Brownian motions}},
 	volume = {181},
 	year = {2020}}
@@ -8415,11 +8415,11 @@ year = {2020}}
 	author = {Dumitriu, I. and Edelman, A.},
 	date-added = {2016-03-21 13:39:40 +0000},
 	date-modified = {2016-03-21 13:41:09 +0000},
-	journal = {J. Math. Phys.},
+	journal = {Journal of Mathematical Physics},
 	note = {arXiv:math-ph/0206043},
 	number = {11},
-	pages = {5830--5847},
-	title = {{Matrix models for beta ensembles}},
+	pages = {5830-5847},
+	title = {Matrix models for beta ensembles},
 	volume = {43},
 	year = {2002}}
 
@@ -8541,7 +8541,7 @@ year = {2020}}
 	note = {arXiv:math/0403022 [math.PR]},
 	number = {5},
 	pages = {1643--1697},
-	title = {{Phase transition of the largest eigenvalue for non-null complex sample covariance matrices}},
+	title = {Phase transition of the largest eigenvalue for non-null complex sample covariance matrices},
 	volume = {33},
 	year = {2005}}
 
@@ -9350,10 +9350,10 @@ year = {2020}}
 	author = {Ferrari, P. and Frings, R.},
 	date-added = {2014-10-12 15:51:41 +0000},
 	date-modified = {2018-02-28 19:41:34 +0000},
-	journal = {J. Stat. Phys.},
+	journal = {J. Stat. Phys},
 	note = {arXiv:1212.5534 [math-ph]},
 	number = {1-2},
-	pages = {356--377},
+	pages = {356-377},
 	title = {{Perturbed GUE minor process and Warren's process with drifts}},
 	volume = {154},
 	year = {2014}}
@@ -10229,7 +10229,7 @@ year = {2020}}
 	date-modified = {2018-02-28 19:39:09 +0000},
 	journal = {Probab. Theory Relat. Fields},
 	owner = {leo},
-	pages = {256--274},
+	pages = {256-274},
 	timestamp = {2010.11.19},
 	title = {{GUEs and queues}},
 	volume = {119},
@@ -12925,7 +12925,7 @@ year = {2020}}
 	year = {2005}}
 
 @book{Forrester-LogGas,
-	author = {Forrester, P. J.},
+	author = {Peter J. Forrester},
 	owner = {leo},
 	publisher = {Princeton University Press},
 	timestamp = {2010.08.13},
@@ -13814,7 +13814,7 @@ year = {2020}}
 	year = {1982}}
 
 @article{HeckmannOpdam1997,
-	author = {Heckman, G.J. and Opdam, E.M.},
+	author = {Heckmann, G.J. and Opdam, E.M.},
 	date-added = {2013-09-07 12:39:55 +0000},
 	date-modified = {2013-09-07 12:40:36 +0000},
 	journal = {Ann. Math.},
@@ -15928,16 +15928,6 @@ year = {2020}}
 	title = {Structures of boson and fermion Fock spaces in the space of symmetric functions},
 	year = {2003}}
 
-@article{Neretin2003Rayleigh,
-	author = {Neretin, Yu.A.},
-	journal = {Sb. Math.},
-	note = {arXiv:math/0301070},
-	number = {4},
-	pages = {515--540},
-	title = {{Rayleigh triangles and non-matrix interpolation of matrix beta integrals}},
-	volume = {194},
-	year = {2003}}
-
 @incollection{Neretin1988,
 	address = {Moscow},
 	author = {Neretin, Yu.A.},
@@ -16218,7 +16208,7 @@ year = {2020}}
 	note = {arXiv:q-alg/9608020},
 	number = {1},
 	pages = {69--78},
-	title = {{Shifted {Jack} polynomials, binomial formula, and applications}},
+	title = {Shifted {J}ack polynomials, binomial formula, and applications},
 	volume = {4},
 	year = {1997},
 	bdsk-url-1 = {http://www.ams.org/mathscinet-getitem?mr=1432811}}
@@ -19084,7 +19074,7 @@ year = {2020}}
 }
 
 @article{CapitaineDonatiMartinFeral2009,
-  author = {Capitaine, M. and Donati-Martin, C. and F{\'e}ral, D.},
+  author = {Capitaine, M. and Donati-Martin, C. and F{\\'e}ral, D.},
   title = {{The largest eigenvalues of finite rank deformation of large {Wigner} matrices: Convergence and nonuniversality of the fluctuations}},
   journal = {Ann. Probab.},
   volume = {37},
@@ -19092,7 +19082,7 @@ year = {2020}}
   pages = {1--47},
   year = {2009},
   doi = {10.1214/08-AOP394},
-  note = {arXiv:0706.0136 [math.PR]}
+  note = {arXiv:math/0605624 [math.PR]}
 }
 
 @article{MarcusSpielmanSrivastava2015,
